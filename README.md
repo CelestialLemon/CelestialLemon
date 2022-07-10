@@ -2,13 +2,14 @@
 
 My name is Ashutosh Shinde, a passionate and self-movtivated software developer from Pune, India.
 I like developing many things like
-- Games
-- Websites
-- APIs
-- Tools
+- 🎮 Games
+- 🌍 Websites
+- ⚡ APIs
+- ⛏ Tools
+
 
 I come up with many ideas and like to develop softwares that can help me with my daily life. Many of my projects like **Ranker**, **DynamicWallpaper**, **Watchlist** and more are
-simple ideas that I converted to useable applications learning the technologies required to make them along the way. Technologies like 
+simple ideas that I converted to useable applications learning the technologies required to make them along the way. Technologies like :
   - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ReactJS
   - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> ExpressJS/ NodeJS
   - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code> OpenGL
