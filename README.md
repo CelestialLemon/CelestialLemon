@@ -1,6 +1,6 @@
 ### Hi there 👋😀
 
-My name is Ashutosh Shinde, a passionate and self-movtivated software developer from Pune, India.
+My name is Ashutosh Shinde, a passionate and self-movtivated software developer from Pune.
 I like developing many things like
 - 🎮 Games
 - 🌍 Websites
